@@ -71,6 +71,7 @@ namespace App1
                 inventory.AddBook(paperBook);
                 inventory.AddBook(paperBook2);
 
+
                 inventory.AddBook(ebook);
                 inventory.AddBook(ebook2);
 

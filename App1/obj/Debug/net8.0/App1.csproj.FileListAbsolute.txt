@@ -12,3 +12,4 @@ D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\refint\App1.dll
 D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.pdb
 D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.genruntimeconfig.cache
 D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\ref\App1.dll
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.sourcelink.json

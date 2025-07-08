@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1914AFB2-BEA5-46BC-B257-944F38832333}|App1\\App1.csproj|d:\\01masteringc#\\fawrytask02\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1914AFB2-BEA5-46BC-B257-944F38832333}|App1\\App1.csproj|solutionrelative:app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1914AFB2-BEA5-46BC-B257-944F38832333}|App1\\App1.csproj|d:\\01masteringc#\\fawrytask02\\app1\\logic\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1914AFB2-BEA5-46BC-B257-944F38832333}|App1\\App1.csproj|solutionrelative:app1\\logic\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\01MasteringC#\\FawryTask02\\App1\\Logic\\Inventory.cs",
-              "RelativeDocumentMoniker": "App1\\Logic\\Inventory.cs",
-              "ToolTip": "D:\\01MasteringC#\\FawryTask02\\App1\\Logic\\Inventory.cs",
-              "RelativeToolTip": "App1\\Logic\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:32:35.846Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +24,9 @@
               "RelativeDocumentMoniker": "App1\\Program.cs",
               "ToolTip": "D:\\01MasteringC#\\FawryTask02\\App1\\Program.cs",
               "RelativeToolTip": "App1\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwEcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:49:44.529Z",
+              "WhenOpened": "2025-07-08T23:17:22.153Z",
               "EditorCaption": ""
             }
           ]
