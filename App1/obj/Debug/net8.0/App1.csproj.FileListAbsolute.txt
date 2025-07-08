@@ -1,0 +1,14 @@
+D:\01MasteringC#\FawryTask02\App1\bin\Debug\net8.0\App1.exe
+D:\01MasteringC#\FawryTask02\App1\bin\Debug\net8.0\App1.deps.json
+D:\01MasteringC#\FawryTask02\App1\bin\Debug\net8.0\App1.runtimeconfig.json
+D:\01MasteringC#\FawryTask02\App1\bin\Debug\net8.0\App1.dll
+D:\01MasteringC#\FawryTask02\App1\bin\Debug\net8.0\App1.pdb
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.AssemblyInfoInputs.cache
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.AssemblyInfo.cs
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.csproj.CoreCompileInputs.cache
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.dll
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\refint\App1.dll
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.pdb
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\App1.genruntimeconfig.cache
+D:\01MasteringC#\FawryTask02\App1\obj\Debug\net8.0\ref\App1.dll
